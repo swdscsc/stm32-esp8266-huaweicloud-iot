@@ -1,0 +1,30 @@
+# STM32 / Keil / CubeIDE 编译产物
+*.o
+*.d
+*.crf
+*.lst
+*.htm
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lnp
+*.iex
+*.sct
+JLinkLog.txt
+EventRecorderStub.scvd
+DebugConfig/
+RTE/
+Listings/
+Objects/
+Debug/
+Release/
+.settings/
+*.uvguix.*
+*.bak
+
+# IDE 临时文件
+.vscode/
+*.code-workspace
+Thumbs.db
